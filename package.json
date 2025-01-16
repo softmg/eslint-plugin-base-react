@@ -1,6 +1,6 @@
 {
   "name": "@softmg/eslint-plugin-base-react",
-  "version": "0.0.0",
+  "version": "0.0.1-0",
   "description": "A comprehensive linting solution that sweeps your code clean",
   "keywords": [
     "eslint",
